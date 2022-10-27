@@ -1,6 +1,6 @@
 # Example for HIP-542
 ## Auto-Account creation when sending FT to an alias
-### Steps
+### Example Steps
 1. Create a treasury account
 2. Create an fungible HTS token using the Hedera Token Service
 3. Create an ECDSA public key alias
@@ -10,6 +10,8 @@
 
 
 ## How to run
+Create a .env file with your testnet credentials. Need a testnet account? Register for a Hedera testnet account [here](https://portal.hedera.com/register). Recieve 10,000 test hbar every 24 hours!
+
 `npm i`
 
 `npm run start`
