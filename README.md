@@ -1,4 +1,4 @@
-# Example for HIP-542
+# Example for [HIP-542](https://hips.hedera.com/hip/hip-542)
 ## Auto-Account creation when sending FT to an alias
 ### Example Steps
 1. Create a treasury account
