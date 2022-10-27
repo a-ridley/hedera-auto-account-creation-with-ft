@@ -113,7 +113,7 @@ const accountCreationWithFT = async () => {
 
   tokenBalanceAccountId.toInt() === 10
     ? console.log(
-      `Account is created succesfully using HTS 'TransferTransaction'`
+      `Account is created successfully using HTS 'TransferTransaction'`
     )
     : console.log(
       "Creating account with HTS using public key alias failed"
